@@ -1,1 +1,1 @@
-# lyricality
+# lyricAI
